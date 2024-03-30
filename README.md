@@ -9,7 +9,7 @@ Generate your OpenAI API key here: https://platform.openai.com/api-keys
 1. Download the repo code
 2. Create a .env file and store openAI API in variable OPENAI_API_KEY="your API key" which will make sure your key is not expose publicly
 3. Create your own env using requirements.txt
-4. Execute streamlit run app.py in terminal and boom your app is up and running.
+4. Execute command "streamlit run app.py" in terminal and boom your app is up and running.
 
 ## References
 
