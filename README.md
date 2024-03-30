@@ -1,4 +1,4 @@
-# Automatic Visualize your CSV with Lida LLM model
+# Automatically visualize your CSV data with Lida LLM (Lightweight Machine Learning) model
 LLM powered generateGraphs streamlit app so you can summarize and visualize your data quicky
 
 # How to run ?
