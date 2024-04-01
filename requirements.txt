@@ -1,6 +1,0 @@
-lida
-lida[transformers]
-#incase you have to use hugging face model
-torch
-streamlit
-python-dotenv
